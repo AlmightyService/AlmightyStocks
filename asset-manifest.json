@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlmightyStocks/static/css/main.d6b655d1.css",
+    "main.js": "/AlmightyStocks/static/js/main.14515b1e.js",
+    "static/js/787.23e6c461.chunk.js": "/AlmightyStocks/static/js/787.23e6c461.chunk.js",
+    "static/media/bgchartskris.jpg": "/AlmightyStocks/static/media/bgchartskris.e736f7ca0c8a45491a99.jpg",
+    "static/media/bigLogoCircle.png": "/AlmightyStocks/static/media/bigLogoCircle.51ddc4e98f5cef3ae864.png",
+    "static/media/longAlmightyLogo.png": "/AlmightyStocks/static/media/longAlmightyLogo.f8b7cb2c401e59ed63f2.png",
+    "static/media/almightyLogo.png": "/AlmightyStocks/static/media/almightyLogo.0073046a946539f3a252.png",
+    "static/media/nft.png": "/AlmightyStocks/static/media/nft.fff951ae95f88ab4a75c.png",
+    "static/media/cryptocurrency.png": "/AlmightyStocks/static/media/cryptocurrency.6d2a56859e2c39afa4a8.png",
+    "static/media/personal-wealth.png": "/AlmightyStocks/static/media/personal-wealth.c84adc2d45f2c36dc7f0.png",
+    "static/media/stock.png": "/AlmightyStocks/static/media/stock.d8cfa500af84bcce58be.png",
+    "index.html": "/AlmightyStocks/index.html",
+    "main.d6b655d1.css.map": "/AlmightyStocks/static/css/main.d6b655d1.css.map",
+    "main.14515b1e.js.map": "/AlmightyStocks/static/js/main.14515b1e.js.map",
+    "787.23e6c461.chunk.js.map": "/AlmightyStocks/static/js/787.23e6c461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b655d1.css",
+    "static/js/main.14515b1e.js"
+  ]
+}
